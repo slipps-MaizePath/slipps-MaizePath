@@ -14,13 +14,16 @@ In the future, I hope to utilize the skill set I have developed to improve popul
 
 ---
 
-### Languages 💻
+### Languages & Softwares 💻
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/ASReml-005587?style=for-the-badge&logo=Color=white" alt="ASReml" />
+  <img src="https://img.shields.io/badge/AlphaSimR-5D2F86?style=for-the-badge&logoColor=white" alt=AlphaSimR" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=sas&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SAS-0033A0?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
 </p>
 
 ---
