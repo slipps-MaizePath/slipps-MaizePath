@@ -10,27 +10,30 @@ adapted breeding programs to improve disease resistance and abiotic stress resis
 ---
 
 ### Education 🎓
-* **[Phd Crop Sciences]** - *[University of Illinois Urbana-Champaign]* ([2025])
-* **[MS Crop Sciences]** - *[University of Illinois Urbana-Champaign]* ([2021])
-* **[BA Biology]** - *[Augustana College]* ([2018])
+* **Phd Crop Sciences** - *University of Illinois Urbana-Champaign* (2025)
+* **MS Crop Sciences** - *University of Illinois Urbana-Champaign* (2021)
+* **BA Biology** - *Augustana College* (2018)
 
 ---
 
 ### Languages 💻
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
   <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
 ### Crops I have worked with 🌾
-* 🌽 **Corn (Maize):** Resistance to *Fusarium graminearum*, *Setosphaeria turcica*, and *Phyllachora maydis*. Familiarity with near-isogenic lines, diversity panels, and hybrid development
-* 🌱 **Sorghum (Sorghum bicolor):** Resistance to *Setosphaeria turcica*. Familiarity with recombinant inbred lines
 * 🌾 **Wheat (Triticum aestivum):** Utilizing latent secondary traits to improve phenomic assisted genomic prediction in mutli-environment yield trials and through stochastic simulations.
+  
+* 🌽 **Corn (Maize):** Resistance to *Fusarium graminearum*, *Setosphaeria turcica*, and *Phyllachora maydis*. Familiarity with near-isogenic lines, diversity panels, and hybrid development
+  
+* 🌱 **Sorghum (Sorghum bicolor):** Resistance to *Setosphaeria turcica*. Familiarity with recombinant inbred lines
+  
 * 🌾 **Miscanthus and Sugarcane (Miscanthus spp. & Saccharum spp.):** Generated inter- and intra- species crosses for climate resilient biomass production, measured biomass, planted field trials, managed private germplasm bank.
 
 ---
