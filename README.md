@@ -1,11 +1,9 @@
 # Sarah Lipps 👋
 I am a Postdoctoral Researcher in the Small Grains Improvement Group working for Jessica Rutkoski.
-My current interests lie in using [Quantitative Genetics Theory] to inform how we utilize secondary traits in [Genomic Prediction] and modelling 
-[Genotype-by-Environment] interactions. I do a lot of work using [Stochastic Simulations] and understanding how we can exploid [Latent Traits] 
-to improve genomic prediction accuracy. 
+My current interests lie in using **Quantitative Genetics Theory** to inform how we utilize secondary traits in **Genomic Prediction** and modelling 
+**Genotype-by-Environment Interactions**. I do a lot of work using **Stochastic Simulations** and understanding how we can exploid **Latent Traits** to improve genomic prediction accuracy. 
 
-In the future, I hope to utilize the skill set I have developed to improve how we incorparate materials from germplasm banks into temperate
-adapted breeding programs to improve disease resistance and abiotic stress resistance. 
+In the future, I hope to utilize the skill set I have developed to improve population development specifically focused on using the beautifully curated germplasm banks that have been meticulously maintained by numerous cultures, people, and institutions.
 
 ---
 
